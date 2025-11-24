@@ -1,3 +1,3 @@
-Los archivos que se deben descargar y dejar en una misma carpeta son: "Grafo.h", "Colectivos.dat", "corteControlCorrejido.h" y "MapaTransporteP.c".
+En el archivo "mapsApp.zip" se encuentra lo necesario para el correcto funcionamiento del sistema, recomendamos mantener cada archivo junto en esa carpeta.
 
-El archivo que se debe compilar y ejecutar es "MapaTransporteP.c".
+El archivo que se debe compilar y ejecutar es "MapaTransporteP.c", agradecemos su atención.
