@@ -34,6 +34,7 @@ void inicializar();
 void procesarCorte();
 void finCorte(int colectivoActual);
 void finalizar();
+void corteDeControl();
 
 void corteDeControl(){
     inicializar();
@@ -120,3 +121,4 @@ void finalizar() {
 }
 
 #endif
+
